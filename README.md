@@ -8,3 +8,7 @@
 * Flexbox;
 * iframe;
 * Анимации с использованием CSS.
+
+**GitHub Pages**
+
+* [Ссылка проекта на GitHub Pages](https://danilhas.github.io/how-to-learn/)
